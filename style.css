@@ -169,7 +169,7 @@
   }
   
   body {
-    background-color: #f1f2f5;
+    background-color: whitesmoke;
   }
   
   .feed {
@@ -356,7 +356,7 @@
   }
   
   @media (min-width: 769px) and (max-width: 1440px) {
-    /* CSS To Target 767 px width of screen */
+   
   
     .feed {
       width: 50%;
